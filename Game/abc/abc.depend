@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1652039034 source:c:\abc\02_getting_an_image_on_the_screen.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"giaoDIen.h"
+
+1651931306 c:\abc\giaodien.h
+
+1651931306 source:c:\abc\giaodien.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"giaoDIen.h"
+
+1651982141 c:\abc\hd.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"giaoDIen.h"
+
+1651982182 source:c:\abc\hd.cpp
+	"hd.h"
+

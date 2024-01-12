@@ -1,0 +1,63 @@
+01
+Quai nham
+Lua
+Bo
+100
+130
+12
+02
+Hai au
+Nuoc
+Bay
+80
+150
+15
+03
+Kien chua
+Thuc vat
+Bo
+130
+150
+13
+04
+Khung long
+Lua
+Bo
+120
+130
+11
+05
+Ca trinh
+Nuoc
+Bo
+140
+140
+14
+06
+Dai bang
+Thuc vat
+Bay
+70
+160
+15
+07
+Khong tuoc
+Lua
+Bay
+75
+140
+14
+08
+Ca sau dam lay
+Nuoc
+Bo
+100
+120
+13
+09
+Te giac 1 sung
+Thuc Vat
+Bo
+130
+120
+10
